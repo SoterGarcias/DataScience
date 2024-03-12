@@ -11,11 +11,11 @@
 # Soter Garcias
 <sub>*Lead Data Scientist* </sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Como experiente Analista de dados, e me especializando em Cientista de Dados, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando trabalhando com analises e implemtações de indicadores, desenvolvi pensamento crítico e habilidades de resolução de problemas.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Minhas credenciais incluem MBA em Ciência de dados que está em curso na UNIFOR, instituição de ensino superior classificada como uma das melhores universidades particular do Brasil, e MBA em Logistica. pela Uni7.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning.
 
 **Links:**
 
