@@ -20,6 +20,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/soter-garcias-70165968)
+* [Medium](https://medium.com/@amendiz)
 
 
 
